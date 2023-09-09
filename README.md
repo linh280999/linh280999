@@ -10,4 +10,4 @@ Data Vizualiation: Power BI
 Microsoft Office: Excel, Word, Powerpoint, Outlook
 
 ### Project:
-1. [SQL_Ecommerce_Exploring](
+1. [SQL_Ecommerce_Exploring](https://github.com/linh280999/SQL_Ecommerce_Exploring)
