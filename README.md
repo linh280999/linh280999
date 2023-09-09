@@ -10,4 +10,4 @@ Data Vizualiation: Power BI
 Microsoft Office: Excel, Word, Powerpoint, Outlook
 
 ### Project:
-1. SQL_Ecommerce_
+1. 
