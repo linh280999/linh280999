@@ -11,3 +11,4 @@ Microsoft Office: Excel, Word, Powerpoint, Outlook
 
 ### Project:
 1. [SQL_Ecommerce_Exploring](https://github.com/linh280999/SQL_Ecommerce_Exploring)
+2. [PBI_Sales_Analysis](https://github.com/linh280999/PBI_Sales_Analysis)
