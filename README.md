@@ -5,11 +5,8 @@ Motivation and orientation of data analysis and business intelligence, with a pa
 ### Skills:
 
 * Data Wrangling: SQL, Power Query
-  
 * Data Modelling: Power Pivot
-  
 * Data Vizualiation: Power BI
-
 * Microsoft Office: Excel, Word, Powerpoint, Outlook
 
 ### Project:
