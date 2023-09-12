@@ -1,4 +1,4 @@
-## Business Intelligence/Data Analyst
+## Data Analyst/Business Intelligence
 
 Motivation and orientation of data analysis and business intelligence, with a passion for creative innovation and solving complex problems
 
